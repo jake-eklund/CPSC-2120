@@ -15,9 +15,8 @@ Labs
  - Lab 3: Uses recursion to find groups in a grid
  - Lab 4: Implementation of Merge Sort, Quick Sort, linear search, and binary search
  - Lab 5: Created custom Hash Set for strings
- - Lab 6: Using spatial hashing to find the closest pair of points in a 2D plane
- - Lab 7: Implemented a randomly balanced binary search tree
- - Lab 8: Similar to the functions from lab 7 except the insertions and splitting are now based on rank instead of value
- - Lab 9: Using recursion to solve the N-Queens problem
- - Lab 10: Using Breath Fist Search to solve puzzles
- - Lab 11: Solving a NP-Hard problem using iterative refinement
+ - Lab 6: Implemented a randomly balanced binary search tree
+ - Lab 7: Similar to the functions from lab 7 except the insertions and splitting are now based on rank instead of value
+ - Lab 8: Using recursion to solve the N-Queens problem
+ - Lab 9: Using Breath Fist Search to solve puzzles
+ - Lab 10: Solving a NP-Hard problem using iterative refinement
